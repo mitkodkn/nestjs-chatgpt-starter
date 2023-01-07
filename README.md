@@ -1,6 +1,8 @@
 ## The Boilerplate
 
-I remember the frustration I felt when I was trying to integrate the "chatgpt" pacakge with NestJS for the first time. I have probably saved you some time, so please leave a ⭐ on this project.
+I remember the frustration I felt when I was trying to integrate the "chatgpt" pacakge with NestJS for the first time. I have probably saved you some time, so **please leave a ⭐ on this project**.
+
+![Patrick Star](https://media0.giphy.com/media/XdyyR97fGCELK/giphy.gif?cid=ecf05e47gt29de2jbwlhheibrr895r8qar1w8u40dz99psf8&rid=giphy.gif&ct=g)
 
 ### The Issue
 
