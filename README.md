@@ -1,3 +1,18 @@
+## The Boilerplate
+
+I remember the frustration I felt when I was trying to integrate the "chatgpt" pacakge with NestJS for the first time. I have probably saved you some time, so please leave a ⭐ on this project.
+
+### The Issue
+
+One issue that users may encounter when using the "chatgpt" library is the error:
+`[ERR_REQUIRE_ESM]: require() of ES Module ...`.
+
+This error occurs because the "chatgpt" library does not support CommonJS, the module system used by require().
+
+I hope this boilerplate project helps make your experience with NestJS and the "chatgpt" library a little smoother. If you have any questions or run into any issues, please don't hesitate to open an issue in the repository.
+
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
